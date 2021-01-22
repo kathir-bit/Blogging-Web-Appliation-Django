@@ -1,2 +1,32 @@
-[{'way_id': 32405176, 'max_speed': ' maxspeed : 30, way_id : 32405176', 'node_id': 364571311}, {'way_id': 32425819, 'max_speed': ' maxspeed : missing, way_id : 32425819', 'node_id': 364637082}, {'way_id': 32425820, 'max_speed': ' maxspeed : missing, way_id : 32425820', 'node_id': 364637084}, {'way_id': 32425823, 'max_speed': ' maxspeed : missing, way_id : 32425823', 'node_id': 364637090}, {'way_id': 32552269, 'max_speed': ' maxspeed : 10, way_id : 32552269', 'node_id': 278990638}, {'way_id': 751435008, 'max_speed': ' maxspeed : missing, way_id : 751435008', 'node_id': 7024754331}]
-[{'way_id': '32405176', 'max_speed': ' maxspeed : 30, way_id : 32405176', 'lat': '13.0141497', 'lon': '80.2025549'}, {'way_id': '32425819', 'max_speed': ' maxspeed : missing, way_id : 32425819', 'lat': '13.0167871', 'lon': '80.2025888'}, {'way_id': '32425820', 'max_speed': ' maxspeed : missing, way_id : 32425820', 'lat': '13.0170297', 'lon': '80.2027725'}, {'way_id': '32425823', 'max_speed': ' maxspeed : missing, way_id : 32425823', 'lat': '13.0166848', 'lon': '80.2040316'}, {'way_id': '32552269', 'max_speed': ' maxspeed : 10, way_id : 32552269', 'lat': '13.0181219', 'lon': '80.2030144'}, {'way_id': '751435008', 'max_speed': ' maxspeed : missing, way_id : 751435008', 'lat': '13.016847', 'lon': '80.2022298'}]
+[
+   {
+      "way_id": 32405176,
+      "max_speed": " maxspeed : 30, way_id : 32405176",
+      "node_id": 364571311
+   },
+   {
+      "way_id": 32425819,
+      "max_speed": " maxspeed : missing, way_id : 32425819",
+      "node_id": 364637082
+   },
+   {
+      "way_id": 32425820,
+      "max_speed": " maxspeed : missing, way_id : 32425820",
+      "node_id": 364637084
+   },
+   {
+      "way_id": 32425823,
+      "max_speed": " maxspeed : missing, way_id : 32425823",
+      "node_id": 364637090
+   },
+   {
+      "way_id": 32552269,
+      "max_speed": " maxspeed : 10, way_id : 32552269",
+      "node_id": 278990638
+   },
+   {
+      "way_id": 751435008,
+      "max_speed": " maxspeed : missing, way_id : 751435008",
+      "node_id": 7024754331
+   }
+]
