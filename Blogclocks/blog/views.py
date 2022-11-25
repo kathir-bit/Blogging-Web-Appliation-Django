@@ -10,6 +10,8 @@ from django.views.generic import (
 )
 
 
+def testing(request):
+    pass #simply testing git 
 
 
 
