@@ -13,7 +13,8 @@ from django.views.generic import (
 def testing(request):
     pass #simply testing git 
 
-
+def check(pass):
+    pass
 
 def home(request):
 
