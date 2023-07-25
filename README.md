@@ -1,8 +1,7 @@
-# Web App
-I have added my django projects 
+# Blogging Web App
 
-blogclocks : 
-             A blogging Application with user management
+Blogclocks :
+          Made blogging easy with an easy-to-use user management interface where users can create, post and update blogs
              
              
              
